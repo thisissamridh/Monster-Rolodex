@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thisissamridh/Monster-Rolodex.git/static/css/main.d8611ee9.css",
+    "main.js": "/thisissamridh/Monster-Rolodex.git/static/js/main.5b781484.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/thisissamridh/Monster-Rolodex.git/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/thisissamridh/Monster-Rolodex.git/index.html",
+    "main.d8611ee9.css.map": "/thisissamridh/Monster-Rolodex.git/static/css/main.d8611ee9.css.map",
+    "main.5b781484.js.map": "/thisissamridh/Monster-Rolodex.git/static/js/main.5b781484.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/thisissamridh/Monster-Rolodex.git/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8611ee9.css",
+    "static/js/main.5b781484.js"
+  ]
+}
